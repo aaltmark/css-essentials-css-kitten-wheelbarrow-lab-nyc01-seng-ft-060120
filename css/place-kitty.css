@@ -8,7 +8,7 @@ img.kitty-1 {
   left: 129px;
 }
 
-img.kitty-2  {
+img#kitty-2  {
   position: absolute;
   z-index: 2;
   top: 212px;
